@@ -30,7 +30,7 @@ bio: My research interests include Machine Learning, Deep Learning, Natural Lang
 # Interests to show in About widget
 interests:
   - Machine Learning
-  - Deep Learning
+  - DFT
   - Natural Language Processing
   - AI in Healthcare
   - Privacy
