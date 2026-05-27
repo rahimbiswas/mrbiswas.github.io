@@ -3,10 +3,10 @@
 title: Md. Rahim Biswas
 
 # # # Name pronunciation (optional)
-# name_pronunciation: Al Amin Biswas
+# name_pronunciation: Md. Rahim Biswas
 
 # Full name (for SEO)
-first_name: Al Amin
+first_name: Md. Rahim
 last_name: Biswas
 
 # Status emoji
@@ -42,10 +42,10 @@ education:
     - course: PhD in Computer Science
       institution: Iowa State University, Ames, USA
       year: 2025 - Present
-    - course: M.S. in Computer Science and Engineering
+    - course: M.S. in Physics
       institution: Jahangirnagar University, Dhaka, Bangladesh
-      year: 2019
-    - course: B.Sc. in Computer Science and Engineering
+      year: 2026
+    - course: B.Sc. in Physics
       institution: Jahangirnagar University, Dhaka, Bangladesh
       year: 2018
 
