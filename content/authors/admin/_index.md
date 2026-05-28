@@ -29,25 +29,20 @@ bio: My research interests include Machine Learning, Deep Learning, Natural Lang
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
+  - Computational Physics
   - DFT
-  - Natural Language Processing
-  - AI in Healthcare
-  - Privacy
-  - Security
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: Iowa State University, Ames, USA
-      year: 2025 - Present
+    
     - course: M.S. in Physics
       institution: Jahangirnagar University, Dhaka, Bangladesh
       year: 2026
     - course: B.Sc. in Physics
       institution: Jahangirnagar University, Dhaka, Bangladesh
-      year: 2018
+      year: 2023
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
