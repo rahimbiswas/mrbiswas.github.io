@@ -100,10 +100,10 @@ social:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=JiaLPHwAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?hl=en&user=zHj5RRYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/aabiswas
+    link: https://rahimbiswas.github.io/#contact
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rahimbiswas/
