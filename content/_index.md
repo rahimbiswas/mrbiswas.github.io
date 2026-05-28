@@ -339,8 +339,8 @@ sections:
       # text: |-
       #   You can directly mail me.
       # Contact (add or remove contact options as necessary)
-      email: alaminbiswas.cse@gmail.com
-      phone: +880 17 4007 1456
+      email: mdrahimbiswas.ju@gmail.com
+      phone: +880 17 9413 9628
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
@@ -360,7 +360,7 @@ sections:
       contact_links:
         - icon: facebook
           icon_pack: fab
-          name: Al Amin Biswas
+          name: Rahim Biswas
           link: 'https://web.facebook.com/aab42'
         # - icon: skype
         #   icon_pack: fab
