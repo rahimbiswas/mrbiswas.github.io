@@ -103,7 +103,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=zHj5RRYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://rahimbiswas.github.io/#contact
+    link: https://github.com/rahimbiswas
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rahimbiswas/
