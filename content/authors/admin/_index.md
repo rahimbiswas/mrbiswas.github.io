@@ -21,7 +21,7 @@ role: First Year PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Computer Science, Iowa State University
+  - name: Department of Physics, Jahangirnagar University
     url: https://www.cs.iastate.edu/people/al-amin-biswas
 
 # Short bio (displayed in user profile at end of posts)
