@@ -118,7 +118,7 @@ social:
 highlight_name: true
 ---
 
-I completed my Bachelor of Science (B.Sc.) degree in Physics from the Department of Physics, Jahangirnagar University (JU), Bangladesh, with a CGPA of 3.79. Currently, I am pursuing my Master of Science (M.S.) degree in the same department. My academic interests include modern physics, computational physics, data analysis, and emerging interdisciplinary applications of science and technology.
+I completed my Bachelor of Science (B.Sc.) degree in Physics from the Department of Physics, Jahangirnagar University (JU), savar, Dhaka, Bangladesh, with a CGPA of 3.79. Currently, I am pursuing my Master of Science (M.S.) degree in the same department. My academic interests include modern physics, computational physics, data analysis, and emerging interdisciplinary applications of science and technology.
 
 I am currently seeking academic opportunities as a Lecturer in Physics at universities and higher educational institutions. I am enthusiastic about teaching, research, and academic development, and I aim to build a career in higher education and scientific research.
 {style="text-align: justify;"}
