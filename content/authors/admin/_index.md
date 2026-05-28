@@ -118,8 +118,7 @@ social:
 highlight_name: true
 ---
 
-I my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. Recently, I started my PhD in Computer Science at Iowa State University, Ames, Iowa, USA. Previously, I worked as a Lecturer in the Department of Computer Science and Engineering at Kishoreganj University (KiU), Bangladesh. Before joining KiU, I worked as a Lecturer (Senior Scale) in the Department of Computer Science and Engineering at Daffodil International University (DIU), Dhaka, Bangladesh. I have published a significant number of research papers in international conferences and journals, with more than 1,425 citations (according to Google Scholar). My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Privacy, and Security.
+I completed my Bachelor of Science (B.Sc.) degree in Physics from the Department of Physics, Jahangirnagar University (JU), Bangladesh, with a CGPA of 3.79. Currently, I am pursuing my Master of Science (M.S.) degree in the same department. My academic interests include modern physics, computational physics, data analysis, and emerging interdisciplinary applications of science and technology.
 
-Currently, I am serving as an Assistant Professor in the Department of Computer Science and Engineering at KiU and am on study leave to pursue my PhD.
-
+I am currently seeking academic opportunities as a Lecturer in Physics at universities and higher educational institutions. I am enthusiastic about teaching, research, and academic development, and I aim to build a career in higher education and scientific research.
 {style="text-align: justify;"}
